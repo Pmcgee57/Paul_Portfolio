@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+My name is Paul McGee and I am a recent MBA Graduate from Binghamton University. I graduated with a concentration in business analytics and have a passion for analysis, problem identification and solving using data. This website is where I am going to host my independent projects. 
